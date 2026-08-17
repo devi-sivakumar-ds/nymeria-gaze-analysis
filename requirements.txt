@@ -1,0 +1,7 @@
+nymeria-gaze-tools
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
